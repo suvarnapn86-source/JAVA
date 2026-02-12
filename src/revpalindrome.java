@@ -6,7 +6,7 @@ public class revpalindrome {
             rev += str.charAt(i);
         }
         if (str.equals(rev)) {
-            System.out.println("it is a plaindrome:)");
+            System.out.println("it is a plainde:)");
         } else {
             System.out.println("it is not a palindrome");
         }
