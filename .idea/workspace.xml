@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="This is my --first commit main.java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_technical_classes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumavgg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
+    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770962510819</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1770964326211</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770964326211</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +191,7 @@
     <MESSAGE value="This is my --first commit useraccount.java" />
     <MESSAGE value="This is my --first commit factorial.java" />
     <MESSAGE value="This is my --first commit main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my --first commit main.java" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
