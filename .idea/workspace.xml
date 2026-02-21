@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suvarna2005harshi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/suvarnapn86-source/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;487ebefc-2d1c-44cb-ba96-d9af3094365f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39VfW8X9dIo2kYyR6MUR0NbKKka" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Teststudent.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.order.executor": "Run",
+    "Application.reversearr.executor": "Run",
+    "Application.revpalindrome.executor": "Run",
+    "Application.shape.executor": "Run",
+    "Application.sumaverage.executor": "Run",
+    "Application.sumavg.executor": "Run",
+    "Application.sumavgg.executor": "Run",
+    "Application.task1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/suvar/IdeaProjects/src/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="reversearr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reversearr" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reversearr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="" />
+      <created>1770786188743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770786188743</updated>
+    </task>
+    <task id="LOCAL-00001" summary="order.java">
+      <option name="closed" value="true" />
+      <created>1770877385538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770877385538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="order.java">
+      <option name="closed" value="true" />
+      <created>1770877752422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770877752422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is my --first commit Student.java">
+      <option name="closed" value="true" />
+      <created>1770885150021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770885150021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="This is my --first commit Student.java">
+      <option name="closed" value="true" />
+      <created>1770890113026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770890113026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="This is my --first commit Student.java">
+      <option name="closed" value="true" />
+      <created>1770891057591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770891057591</updated>
+    </task>
+    <task id="LOCAL-00006" summary="This is my --first commit useraccount.java">
+      <option name="closed" value="true" />
+      <created>1770891463743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770891463743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This is my --first commit factorial.java">
+      <option name="closed" value="true" />
+      <created>1770962259378</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770962259378</updated>
+    </task>
+    <task id="LOCAL-00008" summary="This is my --first commit main.java">
+      <option name="closed" value="true" />
+      <created>1770962510819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770962510819</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1770964326211</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770964326211</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="order.java" />
+    <MESSAGE value="This is my --first commit Student.java" />
+    <MESSAGE value="This is my --first commit useraccount.java" />
+    <MESSAGE value="This is my --first commit factorial.java" />
+    <MESSAGE value="This is my --first commit main.java" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
