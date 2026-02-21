@@ -13,7 +13,7 @@
                 for (int k=0;k<5;k++){
                     System.out.print(my3DArray[i][j][k] + "");
                 }
-                System.out.println();
+                System.out.println("");
             }
             System.out.println();
             }
