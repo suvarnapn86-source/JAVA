@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="first commit">
+    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="timecomplexity.java">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a3DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a3DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVACODE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAPROGRAMA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfirstpgm.java" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstpgm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_technical_classes" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +58,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.FinalVAr.executor": "Run",
+    "Application.PaymentTest_Override.executor": "Run",
+    "Application.TestArray.executor": "Run",
+    "Application.TestMultipleCatchBlock.executor": "Run",
     "Application.Teststudent.executor": "Run",
     "Application.a3DArray.executor": "Run",
+    "Application.add.executor": "Run",
+    "Application.evenodd.executor": "Run",
     "Application.factorial.executor": "Run",
+    "Application.firstjavaprogram.executor": "Run",
+    "Application.flipkartSale.executor": "Run",
+    "Application.flipkartSale_OverLoad.executor": "Run",
     "Application.order.executor": "Run",
     "Application.reversearr.executor": "Run",
     "Application.revpalindrome.executor": "Run",
@@ -65,6 +79,7 @@
     "Application.sumavg.executor": "Run",
     "Application.sumavgg.executor": "Run",
     "Application.task1.executor": "Run",
+    "Application.timecomplexity.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -73,12 +88,33 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/suvar/IdeaProjects/src/src/Main.java",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.timecomplexity">
+    <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="add" />
+      <module name="JAVACODE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="evenodd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evenodd" />
+      <module name="JAVACODE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flipkartSale_OverLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flipkartSale_OverLoad" />
+      <module name="JAVACODE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reversearr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reversearr" />
       <module name="src" />
@@ -86,8 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="timecomplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timecomplexity" />
+      <module name="JAVACODE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.timecomplexity" />
+        <item itemvalue="Application.flipkartSale_OverLoad" />
+        <item itemvalue="Application.evenodd" />
+        <item itemvalue="Application.add" />
         <item itemvalue="Application.reversearr" />
       </list>
     </recent_temporary>
@@ -172,7 +219,127 @@
       <option name="project" value="LOCAL" />
       <updated>1770964326211</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="a3DArray.java">
+      <option name="closed" value="true" />
+      <created>1771670061083</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771670061083</updated>
+    </task>
+    <task id="LOCAL-00011" summary="firstjavaprogram.java">
+      <option name="closed" value="true" />
+      <created>1771691151568</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771691151568</updated>
+    </task>
+    <task id="LOCAL-00012" summary="firstjavaprogram.java">
+      <option name="closed" value="true" />
+      <created>1771691882283</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771691882283</updated>
+    </task>
+    <task id="LOCAL-00013" summary="flipkartcartSale-OverLoad.java">
+      <option name="closed" value="true" />
+      <created>1773290870277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773290870277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="revpalindrome.java">
+      <option name="closed" value="true" />
+      <created>1773290938359</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773290938359</updated>
+    </task>
+    <task id="LOCAL-00015" summary="TestArray.java">
+      <option name="closed" value="true" />
+      <created>1773290963953</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773290963953</updated>
+    </task>
+    <task id="LOCAL-00016" summary="additionn.java">
+      <option name="closed" value="true" />
+      <created>1773290991053</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773290991053</updated>
+    </task>
+    <task id="LOCAL-00017" summary="a3DArray.java">
+      <option name="closed" value="true" />
+      <created>1773291022255</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773291022255</updated>
+    </task>
+    <task id="LOCAL-00018" summary="PaymentTest_Override.java">
+      <option name="closed" value="true" />
+      <created>1773291832814</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773291832814</updated>
+    </task>
+    <task id="LOCAL-00019" summary="FranchiseTest.java">
+      <option name="closed" value="true" />
+      <created>1773294942584</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1773294942584</updated>
+    </task>
+    <task id="LOCAL-00020" summary="BankLoanTest.java">
+      <option name="closed" value="true" />
+      <created>1773297909712</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773297909712</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ExceptionDemo.java">
+      <option name="closed" value="true" />
+      <created>1773299164082</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773299164082</updated>
+    </task>
+    <task id="LOCAL-00022" summary="TestMultipleCatchBlock.java">
+      <option name="closed" value="true" />
+      <created>1773299208356</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773299208356</updated>
+    </task>
+    <task id="LOCAL-00023" summary="FinalVar.java">
+      <option name="closed" value="true" />
+      <created>1773299720767</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1773299720767</updated>
+    </task>
+    <task id="LOCAL-00024" summary="timecomplexity.java">
+      <option name="closed" value="true" />
+      <created>1773307303322</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1773307303322</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +360,20 @@
     <MESSAGE value="This is my --first commit factorial.java" />
     <MESSAGE value="This is my --first commit main.java" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="firstjavaprogram.java" />
+    <MESSAGE value="flipkartcartSale-OverLoad.java" />
+    <MESSAGE value="revpalindrome.java" />
+    <MESSAGE value="TestArray.java" />
+    <MESSAGE value="addition.java" />
+    <MESSAGE value="additionn.java" />
+    <MESSAGE value="a3DArray.java" />
+    <MESSAGE value="PaymentTest_Override.java" />
+    <MESSAGE value="FranchiseTest.java" />
+    <MESSAGE value="BankLoanTest.java" />
+    <MESSAGE value="ExceptionDemo.java" />
+    <MESSAGE value="TestMultipleCatchBlock.java" />
+    <MESSAGE value="FinalVar.java" />
+    <MESSAGE value="timecomplexity.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="timecomplexity.java" />
   </component>
 </project>
