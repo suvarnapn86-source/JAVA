@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="timecomplexity.java">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a848e6d6-5518-4b39-b672-5d2947efa64c" name="Changes" comment="added java programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVACODE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAPROGRAMA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfirstpgm.java" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstpgm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_technical_classes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a3DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a3DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,44 +52,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ExceptionDemo.executor": "Run",
-    "Application.FinalVAr.executor": "Run",
-    "Application.PaymentTest_Override.executor": "Run",
-    "Application.TestArray.executor": "Run",
-    "Application.TestMultipleCatchBlock.executor": "Run",
-    "Application.Teststudent.executor": "Run",
-    "Application.a3DArray.executor": "Run",
-    "Application.add.executor": "Run",
-    "Application.evenodd.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.firstjavaprogram.executor": "Run",
-    "Application.flipkartSale.executor": "Run",
-    "Application.flipkartSale_OverLoad.executor": "Run",
-    "Application.order.executor": "Run",
-    "Application.reversearr.executor": "Run",
-    "Application.revpalindrome.executor": "Run",
-    "Application.shape.executor": "Run",
-    "Application.sumaverage.executor": "Run",
-    "Application.sumavg.executor": "Run",
-    "Application.sumavgg.executor": "Run",
-    "Application.task1.executor": "Run",
-    "Application.timecomplexity.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/suvar/IdeaProjects/src/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExceptionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalVAr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentTest_Override.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMultipleCatchBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teststudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a3DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evenodd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstjavaprogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.flipkartSale.executor&quot;: &quot;Run&quot;,
+    &quot;Application.flipkartSale_OverLoad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversearr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.revpalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumaverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumavg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumavgg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.timecomplexity.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/suvar/IdeaProjects/src/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.timecomplexity">
+}</component>
+  <component name="RunManager">
+    <configuration name="a3DArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a3DArray" />
+      <module name="JAVACODE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="add" />
       <module name="JAVACODE" />
@@ -339,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773307303322</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added java programs">
+      <option name="closed" value="true" />
+      <created>1773340805030</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1773340805030</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,6 +385,7 @@
     <MESSAGE value="TestMultipleCatchBlock.java" />
     <MESSAGE value="FinalVar.java" />
     <MESSAGE value="timecomplexity.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="timecomplexity.java" />
+    <MESSAGE value="added java programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added java programs" />
   </component>
 </project>
