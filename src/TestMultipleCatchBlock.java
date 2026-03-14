@@ -8,7 +8,7 @@ class TestMultipleCatchBlock {
             System.out.println("task 1is completed");
         }
         catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("task 2 completed");
+            System.out.println("tacompleted");
         }
         catch(Exception e) {
             System.out.println("common task completed");
